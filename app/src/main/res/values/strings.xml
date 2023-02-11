@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NCTMD3</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">로딩중...</string>
+</resources>
