@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\Source\NCTMD_20221130\app"
+    name=":app"
+    type="APP"
+    maven="NCTMD:app:"
+    gradle="7.3.1"
+    buildFolder="build"
+    bootClassPath="D:\Android\adt-bundle-windows-x86_64-20140702\sdk_studio\platforms\android-32\android.jar;D:\Android\adt-bundle-windows-x86_64-20140702\sdk_studio\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

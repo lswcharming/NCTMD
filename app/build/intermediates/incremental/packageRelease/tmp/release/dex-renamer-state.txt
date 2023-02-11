@@ -1,0 +1,4 @@
+#Sun Feb 12 01:06:02 KST 2023
+base.0=D\:\\Source\\NCTMD_20221130\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
